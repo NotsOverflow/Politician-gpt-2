@@ -1,4 +1,4 @@
-# GPT-2_Poems
+# GPT-2 Politician speach
 using OpenAI GPT-2 technick and model to generate politician speach
 ### Usage
 ```bash
