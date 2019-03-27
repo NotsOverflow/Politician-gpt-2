@@ -3,8 +3,8 @@ using OpenAI GPT-2 technick and model to generate politician speach
 ### Usage
 ```bash
 $> git clone https://github.com/richardjuan/Politician-gpt-2.git
-$> python3 -m venv poem
-$> . poem/bin/activate
+$> python3 -m venv gpt2
+$> . gpt2/bin/activate
 $> pip install numpy tensorflow regex tqdm requests
 $> cd Politician-gpt-2
 $> python3 download_model.py 117M
